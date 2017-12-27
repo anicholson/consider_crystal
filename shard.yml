@@ -1,0 +1,22 @@
+name: consider_crystal
+version: 0.1.0
+
+authors:
+  - Andy Nicholson <andrew@anicholson.net>
+
+# description: |
+#   Short description of consider
+
+dependencies:
+  stumpy_png:
+    github: stumpycr/stumpy_png
+    version: 4.2.1
+#   pg:
+#     github: will/crystal-pg
+#     version: "~> 0.5"
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+# license: MIT

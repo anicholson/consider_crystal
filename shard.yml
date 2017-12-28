@@ -11,10 +11,11 @@ dependencies:
   stumpy_png:
     github: stumpycr/stumpy_png
     version: 4.2.1
-#   pg:
-#     github: will/crystal-pg
-#     version: "~> 0.5"
 
+  spec2:
+    github: waterlink/spec2.cr
+
+    
 # development_dependencies:
 #   webmock:
 #     github: manastech/webmock.cr

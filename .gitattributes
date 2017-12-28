@@ -1,1 +1,4 @@
 examples/mandelbrot.png filter=lfs diff=lfs merge=lfs -text
+examples/kjv.txt filter=lfs diff=lfs merge=lfs -text
+examples/anna_karenina.fr.txt filter=lfs diff=lfs merge=lfs -text
+examples/monster.txt filter=lfs diff=lfs merge=lfs -text
